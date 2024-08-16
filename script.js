@@ -1,0 +1,1 @@
+alert("It is a non-profit E-Commerce website specially made to support and promote women empowerment. For more information see the About page of this website");
